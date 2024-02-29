@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Image Links Example</title>
+   
+</head>
+<body>
+    <div class="section">
+        </h1>HOME</h1>
+    </div class="HOME">
+        <p>We are thrilled to have you here. Explore our site to learn more about Technology,Nature and Food.</p>
+        <a href ="https://limastech.com/2021/03/29/">
+          <img src="https://limastech.com/wp-content/uploads/2021/03/What-is-the-simple-definition-of-Technology.jpg" alt="Technology">
+            </a>
+        </div>
+    
+    <div class="section">
+        <h2>GALLERY</h2>
+        <div class="GALLERY">
+            <a href="https://www.siyabona.com/kenya-nature-reserves.html">
+                <img src="https://www.siyabona.com/images/zebra-kenya-786x500.jpg" alt="zebra-kenya">
+
+            </a>
+            <a href="https://www.kenyatravelideas.com/trees-in-kenya.html">
+                <img src="https://www.kenyatravelideas.com/images/xkenya-tree1.jpg.pagespeed.ic.Wgr2VZRF4p.webp" alt="Trees in Masai Mara">
+            </a>
+            <a href="https://www.flickr.com/photos/ciat/31294979451">
+                <img src="https://live.staticflickr.com/5797/31294979451_e397c99c20_b.jpg" alt=" kenya-nature-reserves">
+            </a>
+        </div>
+    </div>
+    
+    <div class="section">
+        <h2>Menu</h2>
+        <ul>
+            <li>
+                <a href="https://www.foodnetwork.com/recipes/photos/our-best-breakfast-recipes">
+                    <img src="https://food.fnr.sndimg.com/content/dam/images/food/plus/fullset/2020/04/30/0/FNK_The-Best-Cheddar-And-Herb-Chaffle_H_s4x3.jpg.rend.hgtvcom.791.594.suffix/1588257306685.jpeg"
+                     alt="our-best-breakfast-recipes">
+                     Waffles 
+                </a>
+            </li>
+            <li>
+                <a href="https://www.pikeplacemarket.org/lunch-at-pike-place-market/">
+                    <img src="https://u2i5e8n9.rocketcdn.me/wp-content/uploads/2022/01/foodieforthebelly-Instagram-3034-ig-17892309185460908-500x500.jpg" alt="lunch-at-pike-place-market"> Chicken Chips 
+                </a>
+            </li>
+            <li>
+                <a href="https://www.allrecipes.com/gallery/best-dinner-recipes-of-all-time/">
+                    <img src="https://www.allrecipes.com/thmb/L5D6XAKgRLEjYv4cwXjHFpcOx6M=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5504832-f7fe7d4ed66548ada02df20a5069242d.jpg" alt=" best-dinner-recipes-of-all-time"> Curry Stand Chicken Tikka Masala Sauce 
+                </a>
+            </li>
+        </ul>
+    </div>
+</body>
+</html>
